@@ -1,0 +1,4 @@
+char ach_ = 56;
+int k = ach_ - 10;
+printf("%c%i something:", ach_, k / 2);
+continue;
